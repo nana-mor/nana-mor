@@ -1,5 +1,3 @@
-Here’s a polished version with your added line in a subtle way:
-
 **Hi! I'm Dana Amador (he/she), but feel free to call me Dani.**  
 I am passionate about exploring and solving complex problems through technology, with interests that span across **database analysis**, **operations research**, and **web development**. I also have a strong foundation in **algorithm analysis**, helping me approach challenges with optimized solutions.
 
